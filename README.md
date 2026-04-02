@@ -108,7 +108,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
 
 ## Projetos realizados
 
-- [Ipaam GECF](https://github.com/perres9/Ipaam-GECF): Projeto de mapeamento e apoio a analises tecnicas.
+- [IPAAM GECF](https://github.com/perres9/Ipaam-GECF): Projeto de mapeamento e apoio a analises tecnicas.
 - [Projeto de Circuitos Eletronicos - IoT](https://github.com/perres9/Projeto-de-Circuitos-Eletr-nicos---IoT): Projeto pratico de circuitos e IoT.
 - Em breve: novos projetos de firmware e IoT serao adicionados aqui.
 
