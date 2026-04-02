@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD001 MD009 MD033 MD041 -->
 <p align="left">
     <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=800&color=22D3EE&center=false&vCenter=true&repeat=true&width=760&lines=Anizio+Filho;Desenvolvedor+em+evolucao;Foco+em+desenvolvimento+de+Software&v=20260402"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=800&color=22D3EE&center=false&vCenter=true&repeat=true&width=760&lines=Anizio%20Filho;Desenvolvedor%20em%20evolu%C3%A7%C3%A3o;Foco%20em%20desenvolvimento%20de%20Software&v=20260402-2"
         alt="Animacao de texto"
     />
 </p>
@@ -119,7 +119,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
 <p align="left">
     <img
         height="170"
-        src="https://github-readme-stats.vercel.app/api?username=perres9&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=perres9&theme=algolia"
         alt="Visao geral"
     />
 </p>
