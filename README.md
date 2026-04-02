@@ -56,7 +56,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
         <td valign="top" width="33%">
             <h3>Programming</h3>
             <p align="left">
-                <a href="https://www.python.org/" target="_blank"><img alt="Python" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+                <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black"></a>
                 <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
                 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
                 <a href="https://devdocs.io/c/" target="_blank"><img alt="C" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
@@ -116,28 +116,45 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
 
 ## Dashboard
 
-<p align="left">
+<p align="center">
     <img
-        height="170"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=perres9&theme=algolia"
-        alt="Visao geral"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=perres9&theme=algolia"
+        alt="Profile details"
     />
 </p>
 
-<p align="left">
-    <img
-        height="170"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perres9&theme=algolia"
-        alt="Linguagens por repositorio"
-    />
-    <img
-        height="170"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=perres9&theme=algolia"
-        alt="Linguagens por commit"
-    />
-</p>
+<table>
+    <tr>
+        <td width="100%" valign="top">
+            <img
+                height="170"
+                src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=perres9&theme=algolia"
+                alt="Visao geral"
+            />
+        </td>
+    </tr>
+</table>
 
-<p align="left">
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <img
+                height="170"
+                src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perres9&theme=algolia"
+                alt="Linguagens por repositorio"
+            />
+        </td>
+        <td width="50%" valign="top">
+            <img
+                height="170"
+                src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=perres9&theme=algolia"
+                alt="Linguagens por commit"
+            />
+        </td>
+    </tr>
+</table>
+
+<p align="center">
     <img
         height="170"
         src="https://streak-stats.demolab.com?user=perres9&theme=algolia&locale=pt_BR"
