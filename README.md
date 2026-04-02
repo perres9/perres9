@@ -88,18 +88,21 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
     </tr>
 </table>
 
-<h3>Bibliotecas mais utilizadas</h3>
-<p align="left">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
-    <img alt="Folium" src="https://img.shields.io/badge/Folium-Maps-77B829?style=for-the-badge">
-    <img alt="Geopy" src="https://img.shields.io/badge/Geopy-Geocoding-3B82F6?style=for-the-badge">
-    <img alt="OpenPyXL" src="https://img.shields.io/badge/OpenPyXL-Excel-1D6F42?style=for-the-badge">
-    <img alt="Requests" src="https://img.shields.io/badge/Requests-HTTP-0A66C2?style=for-the-badge">
-    <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup4-Web%20Scraping-2E7D32?style=for-the-badge">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-Deploy-222222?style=for-the-badge&logo=githubpages&logoColor=white">
-</p>
+<details>
+    <summary><b>Bibliotecas mais utilizadas (clique para expandir/minimizar)</b></summary>
+    <br>
+    <p align="left">
+        <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+        <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+        <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+        <img alt="Folium" src="https://img.shields.io/badge/Folium-Maps-77B829?style=for-the-badge">
+        <img alt="Geopy" src="https://img.shields.io/badge/Geopy-Geocoding-3B82F6?style=for-the-badge">
+        <img alt="OpenPyXL" src="https://img.shields.io/badge/OpenPyXL-Excel-1D6F42?style=for-the-badge">
+        <img alt="Requests" src="https://img.shields.io/badge/Requests-HTTP-0A66C2?style=for-the-badge">
+        <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup4-Web%20Scraping-2E7D32?style=for-the-badge">
+        <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-Deploy-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+    </p>
+</details>
 
 ---
 
