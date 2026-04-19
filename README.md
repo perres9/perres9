@@ -11,16 +11,16 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
 
 <p align="left">
     <a href="https://github.com/perres9?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
             src="https://custom-icon-badges.demolab.com/github/stars/perres9?color=F59E0B&style=for-the-badge&labelColor=D97706&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/perres9?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/perres9?color=0EA5E9&labelColor=0284C7&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -110,6 +110,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
 
 - [IPAAM GECF](https://github.com/perres9/Ipaam-GECF): Projeto de mapeamento e apoio a analises tecnicas.
 - [Projeto de Circuitos Eletronicos - IoT](https://github.com/perres9/Projeto-de-Circuitos-Eletr-nicos---IoT): Projeto pratico de circuitos e IoT.
+- [Reconhecimento de Imagens com Transfer Learning para IoT](./dio-iot-transfer-learning/README.md): Projeto de classificacao de imagens com TensorFlow e integracao MQTT para cenarios IoT.
 - Em breve: novos projetos de firmware e IoT serao adicionados aqui.
 
 ---
