@@ -1,47 +1,48 @@
 <!-- markdownlint-disable MD001 MD009 MD033 MD041 -->
 <p align="left">
     <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=800&color=22D3EE&center=false&vCenter=true&repeat=true&width=760&lines=Anizio%20Filho;Desenvolvedor%20em%20evolu%C3%A7%C3%A3o&v=20260402-3"
-        alt="Animacao de texto"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=800&color=22D3EE&center=false&vCenter=true&repeat=true&width=760&lines=Anizio%20Filho;Developer%20in%20Progress&v=20260402-3"
+        alt="Typing animation"
     />
 </p>
 
-Me chamo Anizio da Silva Peres Filho, tenho 24 anos, natural de Manaus-AM.
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. Sou apaixonado por tecnologia e compartilho alguns dos meus projetos neste Github.
+My name is Anizio da Silva Peres Filho, I am 24 years old, and I am from Manaus, AM, Brazil.
+I am currently pursuing a degree in Systems Analysis and Development at FMF Wyden.
+I build practical projects focused on IoT, data mapping, and applied software development.
 
 <p align="left">
     <a href="https://github.com/perres9?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/perres9?color=F59E0B&style=for-the-badge&labelColor=D97706&logo=star&label=estrelas"
+        <img
+            alt="Total stars"
+            title="Total GitHub stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/perres9?color=F59E0B&style=for-the-badge&labelColor=D97706&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/perres9?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/perres9?color=0EA5E9&labelColor=0284C7&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        <img
+            alt="Followers"
+            title="Follow me on GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/perres9?color=0EA5E9&labelColor=0284C7&style=for-the-badge&logo=github&label=followers&logoColor=white"
         />
     </a>
     <a href="https://www.chess.com/member/chezperes">
         <img
             alt="Chess.com"
-            title="Meu perfil no Chess.com"
+            title="My Chess.com profile"
             src="https://img.shields.io/badge/Chess.com-16A34A?style=for-the-badge&logo=chessdotcom&logoColor=white"
         />
     </a>
     <a href="https://www.instagram.com/perres9/">
         <img
             alt="Instagram"
-            title="Meu Instagram"
+            title="My Instagram"
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/perres9/">
         <img
             alt="LinkedIn"
-            title="Meu LinkedIn"
+            title="My LinkedIn"
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
@@ -49,7 +50,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
 
 ---
 
-## Linguagens e Ferramentas
+## Languages and Tools
 
 <table>
     <tr>
@@ -89,7 +90,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
 </table>
 
 <details>
-    <summary><b>Bibliotecas mais utilizadas (clique para expandir/minimizar)</b></summary>
+    <summary><b>Most used libraries (click to expand/collapse)</b></summary>
     <br>
     <p align="left">
         <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -106,11 +107,12 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
 
 ---
 
-## Projetos realizados
+## Completed Projects
 
-- [IPAAM GECF](https://github.com/perres9/Ipaam-GECF): Projeto de mapeamento e apoio a analises tecnicas.
-- [Projeto de Circuitos Eletronicos - IoT](https://github.com/perres9/Projeto-de-Circuitos-Eletr-nicos---IoT): Projeto pratico de circuitos e IoT.
-- Em breve: novos projetos serão adicionados aqui.
+- [IPAAM GECF](https://github.com/perres9/Ipaam-GECF): Geospatial mapping platform designed to support environmental and technical analysis.
+- [Electronic Circuits Project - IoT](https://github.com/perres9/Projeto-de-Circuitos-Eletr-nicos---IoT): Hands-on IoT and electronics project focused on embedded systems fundamentals.
+- [Image Recognition with Transfer Learning for IoT](./dio-iot-transfer-learning/README.md): TensorFlow-based image classification with MQTT integration for real-world IoT scenarios.
+- Coming soon: new firmware, automation, and IoT projects.
 
 ---
 
@@ -129,7 +131,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
             <img
                 height="170"
                 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=perres9&theme=algolia"
-                alt="Visao geral"
+                alt="Overview"
             />
         </td>
     </tr>
@@ -141,14 +143,14 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
             <img
                 height="170"
                 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perres9&theme=algolia"
-                alt="Linguagens por repositorio"
+                alt="Languages by repository"
             />
         </td>
         <td width="50%" valign="top">
             <img
                 height="170"
                 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=perres9&theme=algolia"
-                alt="Linguagens por commit"
+                alt="Languages by commit"
             />
         </td>
     </tr>
@@ -157,7 +159,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMF Wyden. 
 <p align="center">
     <img
         height="170"
-        src="https://streak-stats.demolab.com?user=perres9&theme=algolia&locale=pt_BR"
-        alt="Sequencia de contribuicoes"
+        src="https://streak-stats.demolab.com?user=perres9&theme=algolia&locale=en"
+        alt="Contribution streak"
     />
 </p>
