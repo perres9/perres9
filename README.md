@@ -5,7 +5,6 @@
         alt="Typing animation"
     />
 </p>
-Hello, my name is Anizio Filho!
 I am a Systems Analysis and Development student at FMF Wyden, based in Manaus, Brazil. I love bridging the gap between software and hardware to create complete, practical solutions.
 
 What I do:
