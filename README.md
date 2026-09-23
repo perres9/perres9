@@ -5,10 +5,20 @@
         alt="Typing animation"
     />
 </p>
+Hello, my name is Anizio Filho!
+I am a Systems Analysis and Development student at FMF Wyden, based in Manaus, Brazil. I love bridging the gap between software and hardware to create complete, practical solutions.
 
-My name is Anizio da Silva Peres Filho, I am 24 years old, and I am from Manaus, AM, Brazil.
-I am currently pursuing a degree in Systems Analysis and Development at FMF Wyden.
-I build practical projects focused on IoT, data mapping, and applied software development.
+What I do:
+
+ Currently studying Systems Analysis and Development at FMF Wyden.
+
+ Building hands-on projects focused on IoT and Data Mapping.
+
+ Developing Hardware & PCB designs using Altium Designer.
+
+ Currently exploring DelphiScript to build custom automation scripts for Altium Designer.
+
+ Passionate about applied software development and solving real-world problems.
 
 <p align="left">
     <a href="https://github.com/perres9?tab=repositories&sort=stargazers">
